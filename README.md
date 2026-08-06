@@ -1,36 +1,46 @@
-# cybersecurity Portfolio
+# Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio.
 
-This repository documents my hands-on cybersecurity journey as I build practical experience in Security Operations (SOC), Threat Detection, Incident Response, Active Directory, SIEM, Windows Security, and Cloud Security.
+I'm documenting my journey toward becoming a Security Operations Center (SOC) Analyst through hands-on labs, enterprise simulations, and defensive security projects.
 
-## Objectives
+## Current Focus
 
-- Build enterprise-style cybersecurity labs
-- Document investigations and write-ups
-- Share defensive security projects
-- Demonstrate practical SOC skills
-- Continuously improve through hands-on learning
+- Security Operations (SOC)
+- Active Directory
+- Windows Security
+- Microsoft Sentinel
+- Threat Hunting
+- Incident Response
+- Detection Engineering
 
-## Repository Structure
+## Portfolio Structure
 
 📁 Labs
 
+Practical lab exercises and enterprise environments.
+
 📁 Projects
+
+Complete cybersecurity projects with documentation.
 
 📁 Writeups
 
+Technical write-ups and investigation reports.
+
 📁 Resources
+
+Reference material, notes, and supporting content.
 
 📁 Images
 
+Screenshots and diagrams used throughout the projects.
+
 ## Current Roadmap
 
-- ✅ Project 0 – Lab Setup (In Progress)
-- ⏳ Windows Networking
-- ⏳ Active Directory
-- ⏳ Sysmon
-- ⏳ Windows Event Logs
-- ⏳ Microsoft Sentinel
-- ⏳ Threat Hunting
-- ⏳ Incident Response
+- ✅ Project 0 – Environment Preparation
+- ⏳ Project 1 – Active Directory Lab
+- ⏳ Project 2 – Windows Event Logging
+- ⏳ Project 3 – Sysmon Deployment
+- ⏳ Project 4 – Microsoft Sentinel
+- ⏳ Project 5 – Threat Hunting
